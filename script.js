@@ -1,3 +1,2 @@
-let arr [];
-
-arr= ["shubham", 3, "one", true, false, undefined, null];
+let yourArray = [];
+yourArray= ["shubham", 3, true, undefined, null];
